@@ -1,0 +1,4 @@
+pytesseract
+oosheet
+pyexcel-ods3
+PySimpleGUI
